@@ -1,0 +1,26 @@
+[
+  {
+    "active": true,
+    "canceled": null,
+    "creator_id": 2806375,
+    "disabled": false,
+    "downtime_type": 0,
+    "end": 1679515031,
+    "id": 2770909699,
+    "message": "All alerting will be silenced due to a Deployment @erastus.thambo@broadridge.com",
+    "monitor_id": null,
+    "monitor_tags": [
+      "app:workstationframework",
+      "env:dev"
+    ],
+    "mute_first_recovery_notification": true,
+    "parent_id": null,
+    "recurrence": null,
+    "scope": [
+      "*"
+    ],
+    "start": 1679511431,
+    "timezone": "EST",
+    "updater_id": null
+  }
+]
