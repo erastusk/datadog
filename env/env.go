@@ -35,11 +35,11 @@ func TestNewEnvLoad(logger *log.Logger) *EnvVariablesLoad {
 	return &EnvVariablesLoad{
 		Tags: []string{
 			"env:dev",
-			"app:workstationframework",
-			"alias:dev2",
+			"app:APP_NAME",
+			"alias:ALIASENV",
 		},
-		CreatorID: "2806375",
-		Message:   "All alerting will be silenced due to a Deployment @erastus.thambo@broadridge.com",
+		CreatorID: "ID",
+		Message:   "All alerting will be silenced due to a Deployment @email",
 		Logger:    logger,
 		Time:      "1",
 	}
