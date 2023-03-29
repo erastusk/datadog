@@ -7,11 +7,11 @@
     "downtime_type": 0,
     "end": 1679515031,
     "id": 2770909699,
-    "message": "All alerting will be silenced due to a Deployment @erastus.thambo@broadridge.com",
+    "message": "All alerting will be silenced due to a Deployment @TESTEMAIL",
     "monitor_id": null,
     "monitor_tags": [
-      "app:workstationframework",
-      "env:dev"
+      "app:APPNAME",
+      "env:ENVIRONMENT"
     ],
     "mute_first_recovery_notification": true,
     "parent_id": null,
