@@ -23,7 +23,7 @@ func TestGetdowntime(t *testing.T) {
 	expectedID := 2806375
 	expectedActive := true
 	expectedDisabled := false
-	expectedMessage := "All alerting will be silenced due to a Deployment @erastus.thambo@broadridge.com"
+	expectedMessage := "All alerting will be silenced due to a Deployment @TESTEMAIL"
 	expectedStart := 1679511431
 	expectedEnd := 1679515031
 

@@ -17,7 +17,7 @@ var s = &env.EnvVariablesLoad{
 		"app:workstationframework",
 	},
 	CreatorID: "2806375",
-	Message:   "All alerting will be silenced due to a Deployment @erastus.thambo@broadridge.com",
+	Message:   "All alerting will be silenced due to a Deployment @TESTEMAIL",
 	Logger:    logger,
 	Time:      "1",
 }
